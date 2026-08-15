@@ -1,7 +1,16 @@
-# Estate Upkeep
+<p align="center">
+  <img src="assets/estate-upkeep-logo.png" width="420" alt="Estate Upkeep logo">
+</p>
 
-**Estate Upkeep by CrabSerg**  
-**A Copper Dreams project**
+<h1 align="center">Estate Upkeep</h1>
+
+<p align="center">
+  <strong>by CrabSerg • A Copper Dreams project</strong>
+</p>
+
+<p align="center">
+  Rust plugin for detached estate upkeep, decay protection and protected transport.
+</p>
 
 **Version:** 1.0.1  
 **License:** GPL-3.0-or-later  
