@@ -1,0 +1,12 @@
+{
+  "VehicleProtection": {
+    "Enabled": false,
+    "PreventDecayInsideTc": true,
+    "ProtectLand": true,
+    "ProtectWater": true,
+    "ProtectAir": true,
+    "RestoreProtectedHpAfterCleanRestart": true,
+    "RestartMatchRadiusMeters": 8.0,
+    "RestartCheckpointMaxAgeAtShutdownSeconds": 90.0
+  }
+}

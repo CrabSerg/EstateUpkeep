@@ -1,0 +1,29 @@
+Estate Upkeep — Official Project Notice
+
+Copyright © 2026 CrabSerg
+Created and maintained by CrabSerg.
+A Copper Dreams project.
+
+Official release identity:
+Estate Upkeep by CrabSerg / Copper Dreams
+
+Attribution
+-----------
+When redistributing the original source or a modified version, preserve
+the copyright and license notices included with the project.
+
+Official identity
+-----------------
+The names "Estate Upkeep", "CrabSerg", and "Copper Dreams", together with
+project logos and visual identity, must not be used to falsely represent
+a modified or third-party build as an official release.
+
+Forks and modified builds should clearly identify themselves as modified
+and should not imply endorsement by CrabSerg or Copper Dreams.
+
+This identity notice is intended to prevent false attribution or
+misrepresentation of official releases; it does not remove rights
+granted to the source code under GPL-3.0-or-later.
+
+Official build label:
+Estate Upkeep by CrabSerg • A Copper Dreams project
